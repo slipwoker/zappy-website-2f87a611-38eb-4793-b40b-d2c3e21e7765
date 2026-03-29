@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+קישוטים לעוגות מבצק סוכר בעבודת יד, צבעוניים ומרהיבים שיהפכו כל עוגה ליצירת אמנות. עיצובים מותאמים אישית לכל אירוע — כי כל רגע מתוק מגיע להיות מושלם.
+
+### אודות
+https://example.com/about
+גלו את הלב שפועם מאחורי יוצרים מתוק — מותג שנולד מאהבה למלאכת יד ולקישוטי עוגות מבצק סוכר. כל פרט נוצר ביד, בדיוק, ובשמחה אמיתית כדי להפוך את השמחה שלכם לבלתי נשכחת.
+
+### גלריה
+https://example.com/gallery
+צללו לגלריה הצבעונית שלנו וגלו עשרות קישוטי עוגות מבצק סוכר מרהיבים לימי הולדת, אירועים ומסיבות. כל תמונה היא הוכחה שעוגה יכולה להיות הרבה יותר מקינוח — היא חוויה שלמה.
+
+### צור קשר
+https://example.com/contact
+רוצים קישוטים לעוגות מבצק סוכר מותאמים אישית לאירוע הבא שלכם? צרו איתנו קשר עכשיו ונשמח לעזור לכם לתכנן את הקישוט המושלם שיגרום לכולם להישאר פעורי פה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - יוצרים מתוק
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - יוצרים מתוק
+
+### Category
+https://example.com/category/:slug
+מוצרים - יוצרים מתוק
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
